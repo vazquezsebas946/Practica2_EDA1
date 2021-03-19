@@ -42,7 +42,7 @@ int main()
 			case 5:
 				return 0;//se cierra el switch
 			default:
-				printf("Respuesta no válida");//se cierra el switch
+				printf("Respuesta no vÃ¡lida");//se cierra el switch
 		}
 	}
 	return 0;
